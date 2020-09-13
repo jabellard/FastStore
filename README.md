@@ -1,0 +1,2 @@
+# FastStore
+Cache abstraction.
